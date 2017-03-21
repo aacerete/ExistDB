@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="examples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JARS/JARS/examples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JARS/JARS/exist-optional.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JARS/JARS/exist-xqj-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JARS/JARS/exist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JARS/JARS/xqj2-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JARS/JARS/xqjapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
