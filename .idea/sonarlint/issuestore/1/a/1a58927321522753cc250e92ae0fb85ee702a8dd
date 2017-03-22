@@ -1,0 +1,13 @@
+
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ ¼ù8ÁÒº¯+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(­ÿà8½¬³¯+
+jsquid:S3008"NRename this field "URI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¹×¤8ÁÒº¯+
+|squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Âû©ãıÿÿÿÿ8ÁÒº¯+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(æ»òÎ8ÌóÛ¯+
+|squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ÿäµ‘ıÿÿÿÿ8ÆÇ¯+
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÃĞ¹8ÁÒº¯+
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÀËÔ»8ÁÒº¯+
+Asquid:S2068" Remove this hard-coded password.(Âû©ãıÿÿÿÿ8ÁÒº¯+
+ñsquid:S1160"ÏRefactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, org.xmldb.api.base.XMLDBException, java.lang.IllegalAccessException, java.lang.InstantiationException(Ì±şÜûÿÿÿÿ8×©»¯+
+1squid:S1220""Move this file to a named package.

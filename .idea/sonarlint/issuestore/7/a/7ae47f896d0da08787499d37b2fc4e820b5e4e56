@@ -1,0 +1,9 @@
+
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤°×ªýÿÿÿÿ
+ksquid:S1192"JDefine a constant instead of duplicating this literal "QuÃ¨ tal?" 3 times.(îÈŽÖýÿÿÿÿ8ä€¨‘¯+
+Vsquid:S1854"5Remove this useless assignment to local variable "a".(îÈŽÖýÿÿÿÿ8ä€¨‘¯+
+Asquid:S2129" Remove this "String" constructor(äµçœûÿÿÿÿ8ä€¨‘¯+
+[squid:S1118":Add a private constructor to hide the implicit public one.(¤°×ªýÿÿÿÿ8ä€¨‘¯+
+€squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(“Þ‰³ýÿÿÿÿ8ä€¨‘¯+
+Gsquid:S1481"&Remove this unused "a" local variable.(äµçœûÿÿÿÿ8ä€¨‘¯+
+1squid:S1220""Move this file to a named package.
